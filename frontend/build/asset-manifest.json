@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c572771.chunk.css",
-    "main.js": "/static/js/main.3c9063ad.chunk.js",
-    "main.js.map": "/static/js/main.3c9063ad.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc85cbe0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc85cbe0.js.map",
-    "static/js/2.23443d90.chunk.js": "/static/js/2.23443d90.chunk.js",
-    "static/js/2.23443d90.chunk.js.map": "/static/js/2.23443d90.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7c572771.chunk.css.map": "/static/css/main.7c572771.chunk.css.map",
-    "static/js/2.23443d90.chunk.js.LICENSE.txt": "/static/js/2.23443d90.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-django-todo-app/static/css/main.7c572771.chunk.css",
+    "main.js": "/react-django-todo-app/static/js/main.3c9063ad.chunk.js",
+    "main.js.map": "/react-django-todo-app/static/js/main.3c9063ad.chunk.js.map",
+    "runtime-main.js": "/react-django-todo-app/static/js/runtime-main.c60f85c8.js",
+    "runtime-main.js.map": "/react-django-todo-app/static/js/runtime-main.c60f85c8.js.map",
+    "static/js/2.23443d90.chunk.js": "/react-django-todo-app/static/js/2.23443d90.chunk.js",
+    "static/js/2.23443d90.chunk.js.map": "/react-django-todo-app/static/js/2.23443d90.chunk.js.map",
+    "index.html": "/react-django-todo-app/index.html",
+    "static/css/main.7c572771.chunk.css.map": "/react-django-todo-app/static/css/main.7c572771.chunk.css.map",
+    "static/js/2.23443d90.chunk.js.LICENSE.txt": "/react-django-todo-app/static/js/2.23443d90.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-django-todo-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc85cbe0.js",
+    "static/js/runtime-main.c60f85c8.js",
     "static/js/2.23443d90.chunk.js",
     "static/css/main.7c572771.chunk.css",
     "static/js/main.3c9063ad.chunk.js"

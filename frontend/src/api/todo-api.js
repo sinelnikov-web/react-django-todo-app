@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const APIInstance = axios.create({
-    baseURL: 'http://127.0.0.1:8000/api/',
+    baseURL: 'https://sinelnikov-todo-app.herokuapp.com/api/',
     headers: {
         "Content-Type": "multipart/form-data"
     }
