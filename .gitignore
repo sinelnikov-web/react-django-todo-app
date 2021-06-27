@@ -1,0 +1,31 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+db.sqlite3
+env/
+__pycache__/
+uploads/
+
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+*.bak
+.idea
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
